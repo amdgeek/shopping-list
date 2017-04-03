@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Creamer",
+    "qty": 2,
+    "price": 100.00    
+  },
+  {
+    "id": 2,
+    "name": "Coffee",
+    "qty": 2,
+    "price": 100.00    
+  },
+  {
+    "id": 3,
+    "name": "Coffee Cups",
+    "qty": 2,
+    "price": 100.00    
+  },
+  {
+    "id": 4,
+    "name": "Steak",
+    "qty": 2,
+    "price": 100.00    
+  },
+  {
+    "id": 5,
+    "name": "Brusselsprouts",
+    "qty": 2,
+    "price": 100.00    
+  }
+]
